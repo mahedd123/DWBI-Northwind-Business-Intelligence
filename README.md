@@ -38,11 +38,12 @@ Power BI Dashboard
 
 ### Star Schema
 
-![Star Schema](Screenshots/star-schema.png)
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/ec0b2582-07cd-4b12-a795-8c84a65a69db" />
 
 ### Power BI Dashboard
 
-![Dashboard](Screenshots/powerbi-dashboard.png)
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/d7f6492b-e081-48c7-b55d-fc0a97908020" />
+
 
 ## Author
 
